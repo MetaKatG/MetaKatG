@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MetaKatG
-- 👀 I’m interested in VR and Virtual Production 
+- 👀 I’m interested in AI and Virtual Production 
 - 🌱 I’m currently learning Unreal Engine
-- 💞️ I’m looking to collaborate on VR/ VP projects
+- 💞️ I’m looking to collaborate on VR/VP projects
 - 📫 How to reach me ... katgvfx@gmail.com
 
 <!---
